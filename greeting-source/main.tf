@@ -1,0 +1,4 @@
+locals {
+
+   greeting = "Hello, World"
+}
